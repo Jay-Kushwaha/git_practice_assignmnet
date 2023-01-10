@@ -1,4 +1,4 @@
-
+console.log(prime(9)
 
 function prime(n){
 let flag=false
